@@ -5,7 +5,6 @@ An end-to-end Machine Learning web application that predicts the resale price of
 ## 👤 Developer Profile
 
 - **Name:** Shivaansh Singh
-- **Registration Number:** 23MIM10071
 
 ## 🔗 Project Links
 
