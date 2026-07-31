@@ -1,10 +1,17 @@
 # 🚗 Car Price Prediction System
 
+**Author:** Shivaansh Singh
+
+**Registration Number:** 23MIM10071
+
+**Application Number:** IN26011206
+
+**Batch Number:** 1A
+
+**Email ID:** shivaansh.23mim10071@vitbhopal.ac.in 
+
 An end-to-end Machine Learning web application that predicts the resale price of a car based on its specifications, features, and history. The system trains a Random Forest Regressor model on historical automotive data and serves real-time predictions via a production-ready Flask interface deployed in the cloud.
 
-## 👤 Developer Profile
-
-- **Name:** Shivaansh Singh
 
 ## 🔗 Project Links
 
